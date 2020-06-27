@@ -9,16 +9,17 @@ To build a new synthetic factor, 3 supervised learning methods are applied: <br 
 
 ## Files Included
 ### Jupyter Notebook
-1. SVR.ipynb: <br />
-2. Random Forest.ipynb: <br />
-3. Ridge.ipynb: <br />
+1. SVR.ipynb: This file contains the prediction results with Supporting Vector Regression and a "Vanilla Version" simulation <br />
+2. Random Forest.ipynb: This file contains the prediction results with Random Forest Regression and a "Vanilla Version" simulation <br />
+3. Ridge.ipynb: This file contains the prediction results with Ridge Regression and a "Vanilla Version" simulation <br />
 4. Lasso_ tradingSimulation.ipynb: 
     The content at the beginning of this file is about Lasso model building and cross-validation.  <br />
     The Latter part is for More Considerations in the Trading Simulation.  <br />
     The Latter part is for More Considerations in the Trading Simulation. <br />
-    -Differentiated Weights <br />
-    -Trading Feasibility  <br />
-    -Shorting Constraints -Trading Cost  <br />
+        -Differentiated Weights <br />
+        -Trading Feasibility  <br />
+        -Shorting Constraints <br />
+        -Trading Cost  <br />
 
 
 ### Python Script
