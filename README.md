@@ -13,12 +13,12 @@ To build a new synthetic factor, 3 supervised learning methods are applied: <br 
 2.Random Forest.ipynb: <br />
 3.Ridge.ipynb: <br />
 4.Lasso_ tradingSimulation.ipynb: 
-The content at the beginning of this file is about Lasso model building and cross-validation.
-The Latter part is for More Considerations in the Trading Simulation.
+The content at the beginning of this file is about Lasso model building and cross-validation.  <br />
+The Latter part is for More Considerations in the Trading Simulation.  <br />
 The Latter part is for More Considerations in the Trading Simulation. <br />
--Differentiated Weights
--Trading Feasibility
--Shorting Constraints -Trading Cost
+-Differentiated Weights <br />
+-Trading Feasibility  <br />
+-Shorting Constraints -Trading Cost  <br />
 
 
 ### Python Script
